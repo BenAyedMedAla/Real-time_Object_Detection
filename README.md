@@ -24,7 +24,20 @@ A real-time object detection application using YOLOv8 and OpenCV that detects an
    cd Real-time_Object_Detection
    ```
 
-2. **Install required packages**
+2. **Create and activate a virtual environment** (recommended)
+   ```bash
+   # Create virtual environment
+   python -m venv venv
+   
+   # Activate virtual environment
+   # On Windows:
+   venv\Scripts\activate
+   
+   # On macOS/Linux:
+   source venv/bin/activate
+   ```
+
+3. **Install required packages**
    ```bash
    pip install -r requirements.txt
    ```
