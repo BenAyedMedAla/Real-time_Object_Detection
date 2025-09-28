@@ -1,6 +1,8 @@
 # Real-time Object Detection with YOLO
 
 A real-time object detection application using YOLOv8 and OpenCV that detects and identifies objects through your webcam feed with bounding boxes and confidence scores.
+./screenshots/demo-screenshot.png
+
 
 ## Features
 
